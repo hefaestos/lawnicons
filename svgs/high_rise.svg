@@ -12,11 +12,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><path
+     id="path3"
+     style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     d="M 56,90 V 50 l 34,-28 34,28 v 20 m -18,0 h 64 v 100 h -64 z m 0,100 H 22 V 90 h 48 v 34 h 36 z" /><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs18865" /><path
-     id="path3"
-     style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-     d="M 62,90 V 50 l 34,-28 34,28 v 16 m -24,0 h 64 v 104 h -64 z m 0,104 H 22 V 90 h 48 v 34 h 36 z" /></svg>
+     id="defs18865" /></svg>
