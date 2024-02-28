@@ -37,7 +37,7 @@
   <item drawableIgnore="true" component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
   <!-- Lawnicons -->
   	<item component="ComponentInfo{io.github.rlshep.bjcp2015beerstyles/io.github.rlshep.bjcp2015beerstyles.MainActivity}" drawable="beer_style_compendium" name="Beer Style Compendium" />
-	<item component="ComponentInfo{com.gamma.bubblelevel/com.gamma.bubblelevel.BubbleActivity}" drawable="bubble_level"/ name="Bubble Level" >
+	<item component="ComponentInfo{com.gamma.bubblelevel/com.gamma.bubblelevel.BubbleActivity}" drawable="bubble_level"/ name="Bubble Level" />
 	<item component="ComponentInfo{com.mobilecastles.castles/com.ansca.corona.CoronaActivity}" drawable="castles_of_mad_king_ludwig" name="Castles of Mad King Ludwig" />
 	<item component="ComponentInfo{com.ketchapp.divineko/com.unity3d.player.UnityPlayerActivity}" drawable="divineko" name="Divineko" />
 	<item component="ComponentInfo{com.northstargames.evolutiongame/com.unity3d.player.UnityPlayerActivity}" drawable="evolution" name="Evolution" />
